@@ -1,6 +1,3 @@
-// Open your browser and check the console. To solve the challenges, change this file.
-// To see your progress, just reload the page and see the console
-
 console.log('Welcome to the array & DOM challenges');
 
 // -----------CHALLENGE 1----------
